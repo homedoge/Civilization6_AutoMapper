@@ -4,7 +4,7 @@ turns an image into a hexagon grid. Has the 6 different map sizes of civ 6. has 
 
 Instructions:
 
-Unzip the folder.
+Put all these files into a folder. Unzip the EXRACT ME folder, and place its contents in the folder with the program yadayada
 
 drag an image to the folder
 
